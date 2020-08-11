@@ -97,3 +97,8 @@ never是其它类型(包括null和undefined)的子类型，代表从不会出现
 
 ## Typescript字符串函数
 ![在这里插入图片描述](https://github.com/ChenYikunReal/typescript_training/blob/master/images/ts-str-func.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+
+## Typescript访问控制符
+- public
+- protected
+- private
