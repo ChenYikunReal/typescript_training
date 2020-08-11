@@ -85,3 +85,15 @@ node hello.js
 
 ## Typescript类型never
 never是其它类型(包括null和undefined)的子类型，代表从不会出现的值。这意味着声明为never类型的变量只能被never类型所赋值，在函数中它通常表现为抛出异常或无法执行到终止点(例如无限循环)
+
+## Typescript类型Number对象的常见属性
+- MAX_VALUE
+- MIN_VALUE
+- NaN
+- NEGATIVE_INFINITY
+- POSITIVE_INFINITY
+- prototype
+- constructor
+
+## Typescript字符串函数
+![在这里插入图片描述](https://github.com/ChenYikunReal/typescript_training/blob/master/images/ts-str-func.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
