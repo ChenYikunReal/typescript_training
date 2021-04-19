@@ -1,7 +1,7 @@
 # TypeScript学习记录
 
-![在这里插入图片描述](https://github.com/ChenYikunReal/typescript_training/blob/master/images/typescript-background.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
-<br/>
+![](images/typescript-background.jpg)
+
 
 认识TypeScript：
 - TypeScript是JavaScript的一个超集，支持ECMAScript6标准。
@@ -40,7 +40,7 @@ console.log(message);
 node hello.js
 ```
 
-![在这里插入图片描述](https://github.com/ChenYikunReal/typescript_training/blob/master/images/typescript-compiler.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](images/typescript-compiler.png)
 
 ## tsc编译参数说明
 - `--help`：显示帮助信息
@@ -54,7 +54,7 @@ node hello.js
 - `--watch`：在监视模式下运行编译器，会监视输出文件，在它们改变时重新编译。
 
 ## WebStorm自动编译TypeScript代码
-![在这里插入图片描述](https://github.com/ChenYikunReal/typescript_training/blob/master/images/ws-auto-compile.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](images/ws-auto-compile.png)
 
 ## Typescript关键词
 |关键词|关键词|
@@ -96,7 +96,7 @@ never是其它类型(包括null和undefined)的子类型，代表从不会出现
 - constructor
 
 ## Typescript字符串函数
-![在这里插入图片描述](https://github.com/ChenYikunReal/typescript_training/blob/master/images/ts-str-func.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](images/ts-str-func.png)
 
 ## Typescript访问控制符
 - public
